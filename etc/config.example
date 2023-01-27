@@ -4,7 +4,7 @@ https_proxy="http://proxy.server.com:3128"
 
 # Jenkins env variables
 JENKINS_MODE="jnlp"
-JENKINS_HOST="http://jenkins.example:8080"
+# JENKINS_HOST="http://jenkins.example:8080"
 JENKINS_KEY="some-key"
 JENKINS_NAME="some-name"
 
@@ -21,5 +21,5 @@ DAILY_REBOOT=true
 LXD_DAEMON=true
 
 # MAAS
-MAAS_URL="http://maas.local/MAAS"
-MAAS_API="SOME-API-KEY"
+# MAAS_URL="http://maas.local/MAAS"
+# MAAS_API="SOME-API-KEY"
